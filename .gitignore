@@ -1,0 +1,5 @@
+# Build output — binaries live in GitHub Releases, not in the tree
+dist/
+
+# Verification run logs — evidence stays with the builder's workspace
+logs/
